@@ -37,6 +37,9 @@ This is a demonstrator project wherein im using different Azure technologies to 
      ![image](https://github.com/Gonsudev/azure-olympics/assets/34743726/ae9e554d-424b-4f24-97ea-3417d38810e8)
    * Go to develop -> SQL Script -> Start analysing and processing the data.
    * Once Processed, Connect to Power BI to create visualizations.
+5. Basic Visualization using PowerBI
+   ![image](https://github.com/Gonsudev/azure-olympics/assets/34743726/8f8edf1f-f44c-45fc-bc3b-9384e61a589c)
+
 
 
 
