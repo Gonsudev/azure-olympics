@@ -1,4 +1,4 @@
-# azure-databricsk-olympics-dataengineering-project
+# azure-databricks-olympics-dataengineering-project
 This is a demonstrator project wherein im using different Azure technologies to execute an end to end data engineering project.
 ## Steps Taken:
 1. Setting up an Azure Account
